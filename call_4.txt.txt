@@ -1,0 +1,14 @@
+agent: Hello, may I speak with {{customer_name}}?
+user: Yes. 
+user: My name is Afro. 
+agent: May I confirm, am I speaking with {{customer_name}}?
+user: Yes. My name is Safuda. 
+agent: Is this a good time 
+user: Yes. 
+agent: to talk?
+agent: As a valued customer, you may be eligible for a Loan Against Property of up to ₹75 lakh. Do you already have a loan on the property or 
+user: No. 
+agent: need refinancing?
+agent: What type of property would you secure the loan against: residential, commercial, or industrial?
+user: Agriculture. 
+agent: I’m sorry, agricultural property isn’t eligible for this offer, so I can’t proceed. Thank you for your time. Goodbye.

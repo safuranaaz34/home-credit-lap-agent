@@ -1,0 +1,29 @@
+agent: Hello, may I speak with {{customer_name}}?
+user: My name is Safura. 
+agent: May I confirm, are you {{customer_name}}?
+user: I'm customer 
+agent: As a valued customer, you may be eligible for a Loan Against Property of up to ₹75 lakh. Do you already have a loan on the property, or need a balance transfer or 
+user: What is 
+agent: EMI reduction?
+user: the offer? 
+agent: It’s a special Loan Against Property offer of up to ₹75 lakh, secured against your property. I’d like to ask a few quick questions to see if it suits you—do you already have a loan on 
+user: No. 
+agent: the property or need refinancing?
+agent: What type of property is it—residential, commercial, or industrial?
+user: Commercial. 
+agent: Is the property solely owned or jointly owned?
+user: Solely owned. 
+agent: Do you have the original property documents available for verification?
+user: Yes. 
+agent: What loan amount are you looking for, up to ₹75 lakh?
+user: Fifteen lakhs. 
+agent: Are you salaried or self-employed, and is your income received through a bank account?
+user: I'm sorry. And I have a bank account. And I received a moment in my account. 
+agent: Is your occupation salaried or self-employed?
+user: Salary. 
+agent: What’s the approximate current market value of the property?
+user: Ninety lakhs. 
+agent: What tenure would you prefer, between three and fifteen years?
+user: Fifteen. 
+agent: Thank you for providing the details. Based on what you’ve shared, you can proceed to the next stage. A senior loan expert will follow up with the next steps and exact 
+agent: loan details. Goodbye.

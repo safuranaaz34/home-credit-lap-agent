@@ -1,0 +1,8 @@
+agent: Hello, may I speak with {{customer_name}}?
+user: Hello? 
+agent: Hello, may I speak with {{customer_name}}?
+user: Yes. This is a customer. Tell me about the offer. 
+agent: As a valued customer, you may be eligible for a Loan Against Property of up to ₹75 lakh, secured against your property. I’d like to ask a few quick questions to see if it suits you. Do you already have a loan on the property, or need an EMI reduction, balance transfer, or refinancing?
+user: Yes. 
+agent: Thanks for sharing that. Since you already have a loan on the property or need an EMI reduction or balance transfer, our loan-transfer specialist will follow up on 
+agent: the next steps. Goodbye.
